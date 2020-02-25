@@ -1,2 +1,2 @@
-# dopamina
-Dopanina measurement project
+# dopamine
+Dopanine measurement project
